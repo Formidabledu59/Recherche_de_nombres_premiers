@@ -1,4 +1,5 @@
 # Recherche_de_nombres_premiers
+the versions are in the "lib" folder
 
 # Description
 Ce projet contient un programme en C++ conçu pour trouver les nombres premiers jusqu'à une limite donnée. Le programme propose plusieurs versions, chacune apportant des améliorations et optimisations successives.
